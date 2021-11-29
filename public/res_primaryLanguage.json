@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm a network engineer on the verge of becoming a full stack web developer. I'm passionate about problem solving in the smartest and simplest way possible.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "PokeTalk",
+        "startDate": "2021",
+        "description": "Chatroom for Pkemon enthusiasts who want to share their thoughs about their Pokemons, this application was build in react.",
+        "link": "https://github.com/benjimosso/PokePound",
+        "images": [
+          "images/portfolio/Poke-Talk/Poke-Talk1.PNG",
+          "images/portfolio/Poke-Talk/Poke-Talk2.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Find A Beer",
+        "startDate": "2021",
+        "description": "A web application which helps you find a beer !. Search a city and get the location of local breweries.",
+        "link": "https://github.com/benjimosso/Project_One",
+        "images": [
+          "images/portfolio/Find-a-Beer/FindABeer1.PNG",
+          "images/portfolio/Find-a-Beer/FindABeer2.PNG"
+        ],
+        "url": "https://github.com/benjimosso/Project_One",
+        "technologies": [
+          
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

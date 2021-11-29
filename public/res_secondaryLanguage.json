@@ -1,0 +1,112 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "Mi nombre es Daniel Mosso, Soy un administrador de redes y servidores que hace poco inicio su camino en el mundo de la programacion. Me encanta resolver problemas y descubrir nuevas tencologias.",
+      "section_name": {
+        "about": "Sobre mi!",
+        "projects": "Proyectos",
+        "skills": "Tecnologias",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "PokeTalk",
+        "startDate": "2021",
+        "description": "Chat para entusiastas de Pkemon que quieren compartir sus pokemon y tener discuciones sobre las habilidades.",
+        "link": "https://github.com/benjimosso/PokePound",
+        "images": [
+          "images/portfolio/Poke-Talk/Poke-Talk1.PNG",
+          "images/portfolio/Poke-Talk/Poke-Talk2.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          
+        ]
+      },
+      {
+        "title": "Find A Beer",
+        "startDate": "2021",
+        "description": "Aplicacion en la cual podes buscar una ciudad y te muestra las cervecerias en un mapa, A tomarse un chela! 🍻 ",
+        "link": "https://github.com/benjimosso/Project_One",
+        "images": [
+          "images/portfolio/Find-a-Beer/FindABeer1.PNG",
+          "images/portfolio/Find-a-Beer/FindABeer2.PNG"
+        ],
+        "url": "https://github.com/benjimosso/Project_One",
+        "technologies": [
+          
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Workout-Tracker",
+        "startDate": "2021",
+        "description": "Esta aplicacion fue creada para una clase, la funcion es poder llevar un progreso de  ",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - obecnie",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Stażystka",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

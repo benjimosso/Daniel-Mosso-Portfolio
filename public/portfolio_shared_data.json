@@ -1,0 +1,53 @@
+{
+    "basic_info": {
+      "name": "Daniel Mosso",
+      "titles": [ "Full Stack Developer", "Network Administrator", "Linux Server Admin" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/benjimosso",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/benjimosso/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "Benji SelfieOK.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
