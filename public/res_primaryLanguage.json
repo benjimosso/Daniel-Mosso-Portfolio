@@ -41,7 +41,7 @@
           "images/portfolio/Find-a-Beer/FindABeer1.PNG",
           "images/portfolio/Find-a-Beer/FindABeer2.PNG"
         ],
-        "url": "https://github.com/benjimosso/Project_One",
+        "url": "",
         "technologies": [
           
           {
@@ -51,26 +51,24 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Workout-Tracker",
+        "startDate": "2021",
+        "description": "This App helps you keep track of your daily workout routine.",
+        "link": "https://github.com/benjimosso/Workout-Tracker",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/WorkOut/workout1.PNG",
+          "images/portfolio/WorkOut/workout2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
+          
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       }

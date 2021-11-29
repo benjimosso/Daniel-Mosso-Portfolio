@@ -54,24 +54,22 @@
         "title": "Workout-Tracker",
         "startDate": "2021",
         "description": "Esta aplicacion fue creada para una clase, la funcion es poder llevar un progreso de  ",
+        "link": "https://github.com/benjimosso/Workout-Tracker",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/WorkOut/workout1.PNG",
+          "images/portfolio/WorkOut/workout2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
+        
         ]
       }
     ],
