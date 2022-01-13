@@ -5,6 +5,7 @@ import AwesomeSliderStyles from "../scss/light-slider.scss";
 import AwesomeSliderStyles2 from "../scss/dark-slider.scss";
 import "react-awesome-slider/dist/custom-animations/scale-out-animation.css";
 import { IoLogoGithub } from 'react-icons/io';
+import { GrHeroku } from 'react-icons/gr'
 class ProjectDetailsModal extends Component {
   render() {
     if (this.props.data) {
@@ -13,6 +14,7 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var link = this.props.data.link;
+      var deployed = this.props.data.deployed;
       var url = this.props.data.url;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
@@ -96,8 +98,11 @@ class ProjectDetailsModal extends Component {
               ) : null}
             </h3>
             <p className="modal-description">{description}</p>
-            <a href={link} target="_blank" rel="noopener noreferrer" style={{fontSize:"4rem"}}><IoLogoGithub/></a>
-            
+            <div style={{ display: "flex", justifyContent: "space-between"}}>
+            <a href={link} target="_blank" rel="noopener noreferrer" style={{fontSize:"3rem"}}><IoLogoGithub/>GitHub</a>
+            <a href={deployed} target="_blank" rel="noopener noreferrer" style={{fontSize:"3rem"}}><GrHeroku/>Deployed</a>
+            </div>
+            <br />
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>

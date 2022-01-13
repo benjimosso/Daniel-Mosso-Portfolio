@@ -18,7 +18,7 @@ class Footer extends Component {
       <footer>
         <div className="col-md-12">
           <div className="social-links">{networks}</div>
-
+          <a href="mailto:benjimosso@gmail.com">Benjimosso@gmail.com</a>
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>

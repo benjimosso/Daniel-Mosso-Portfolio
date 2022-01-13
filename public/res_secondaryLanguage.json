@@ -15,6 +15,7 @@
         "startDate": "2021",
         "description": "Chat para entusiastas de Pkemon que quieren compartir sus pokemon y tener discuciones sobre las habilidades.",
         "link": "https://github.com/benjimosso/PokePound",
+        "deployed": "https://pokepound.herokuapp.com/",
         "images": [
           "images/portfolio/Poke-Talk/Poke-Talk1.PNG",
           "images/portfolio/Poke-Talk/Poke-Talk2.PNG"
@@ -37,6 +38,7 @@
         "startDate": "2021",
         "description": "Aplicacion en la cual podes buscar una ciudad y te muestra las cervecerias en un mapa, A tomarse un chela! 🍻 ",
         "link": "https://github.com/benjimosso/Project_One",
+        "deployed": "https://benjimosso.github.io/Project_One/",
         "images": [
           "images/portfolio/Find-a-Beer/FindABeer1.PNG",
           "images/portfolio/Find-a-Beer/FindABeer2.PNG"
@@ -55,6 +57,7 @@
         "startDate": "2021",
         "description": "Esta aplicacion fue creada para una clase, la funcion es poder llevar un progreso de  ",
         "link": "https://github.com/benjimosso/Workout-Tracker",
+        "deployed": "https://workout-tracker-mosso.herokuapp.com/",
         "images": [
           "images/portfolio/WorkOut/workout1.PNG",
           "images/portfolio/WorkOut/workout2.PNG"
